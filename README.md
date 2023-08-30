@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Zach.
+I'm a Full Stack Software Engineer in SoCal!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <!--
 **zachary5939/zachary5939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
