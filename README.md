@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Zach.
 I'm a Full Stack Software Engineer in SoCal!
-- 🔭 I’m currently working on finishing my project "Amazing", a clone of Amazon.
-- 🌱 I’m currently learning more about AWS to be certified!
+- 🔭 I’m currently working on a project with Toontown Rewritten!
+- 🌱 I’m currently learning more about Java!
 - 🥧 Ask me anything about Toontown!
 
 I ❤️ workin' with...
