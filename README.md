@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zach.
 I'm a Full Stack Software Engineer in SoCal!
-- 🔭 I’m currently working on a project with Toontown Rewritten!
+- 🔭 I’m currently working on a projects with Toontown Rewritten!
 - 🌱 I’m currently learning more about Java!
 - 🥧 Ask me anything about Toontown!
 
